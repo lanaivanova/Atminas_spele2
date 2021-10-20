@@ -1,0 +1,18 @@
+.wrapper
+{
+    background: rgb(219, 216, 216);
+}
+h1
+{
+    text-align: center;
+    background: chocolate;
+}
+ul
+{
+    text-align: center;
+}
+
+li
+{
+display: inline-block;
+}
